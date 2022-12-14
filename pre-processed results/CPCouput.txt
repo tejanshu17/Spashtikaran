@@ -1,0 +1,70 @@
+{' 17 o', 'Order 6 Rule 17 of ', 'Order 7 Rule 7 of C', ',1963', 'e 7 o'}
+{' 41 R'}
+{'151 C', ' 10 C', ' 23 C', 'Order 10 CPC even i', 'Order 23 CPC\nbut su'}
+{'230 F', '908".', ', 190', 'n 25 ', '908 t', 's 23 '}
+{'1908,', 'Order 21, Rule 33, '}
+{'d 20 ', ', 190', '903, ', 's 3\na'}
+{'Order 21, Rule 90, '}
+{' 13 C', 'Order IX, Rule 13 C'}
+{', 190', '908".'}
+{'Order XXXII of the ', 'Order III of the\nCo', ', 190', '908.\n'}
+{', 190', '908. '}
+{'n 151', 'Order 6, Rule 17, C'}
+{'n 100'}
+{'n 100'}
+{'n 149', 'n 128'}
+{'c.2(2', 'c.44\n', 'Order V Rule 1 CPC ', 'Order IX Rule 13 CP', 'Order V Rule 20(i) ', '2&9)C', '3-5 C', 'e 20 ', 'Order VI Rule 17 CP', ' 20(i', ' 17 C', 'e 1 C', 'Order XLI CPC, for ', ' 13 C', 'Order V CPC\nshall n'}
+{'n 107'}
+{', 190', '. 107', '908 ('}
+{', 190', '908, '}
+{'r 32A'}
+{', 190', 'Order VIII of the C', '908, '}
+{' &2 o', 'e 1 &', 'Order 39 Rule 1 & 2', 'r39 R', '& 2 C', 'r 39 ', 'Order39 Rule 1 & 2,'}
+{'.\n93.'}
+{', 190', '908 (', 'Order XII of the Co'}
+{'n 151', 'n\n151', 'n 144', 'n 115', '151 o'}
+{'151 o', '908,\n', ', 190'}
+{'n 100'}
+{'n 100'}
+{', 190', '908 (', ' (5'}
+{'. 132', ', 190', '908, '}
+{' 25'}
+{'', 'r 6 R', 'Order 7 Rule 7 CPC,', 'n 7.5', 'Order VI Rule 17 CP', '2009 ', ' 17 C', 'e 7 C', ' 1882', 'Order VII Rule 7 CP', 'O.6 R', ' 13A '}
+{'\x81\n93.', 'e 10A', 'Order-X', 'n 151', 'n 75 '}
+{'Order 7 of the Code', 'Order VIII Rule 4, '}
+{', 190', 'n 100', '908. ', 'n 107', 'Order 41, Rule 31, ', 'Order 41, Rule 31,\n'}
+{'.\n59.'}
+{' 20 C', 'Order 5 Rule 20 CPC', ', 190', 'e\n1(5', '908. ', 'Order 23 Rule 1(5) ', 'e 1(5', 'Order'}
+{' 17 C', 'Order 6 Rule 17 CPC'}
+{'908 s', 'C,190', '151 C', 'e 10A', '1908 ', ',1908', '908 t', '151 o'}
+{', 190', '908 m', '908, '}
+{'', ', 190', '908."'}
+{'r 32\n', ' 15 o', ' 32, ', 'Order 32\nRule 15 of', '151 o'}
+{'r 5 R'}
+{'Order X of the CPC.'}
+{'e 32,', 'Order 21, Civil Pro'}
+{'\n38. ', 'n 151', 'n\n115', 'n 115', '151 o', 'Order V, Civil Proc'}
+{' 41 R', ' 27 C', 'Order 41 Rule 27 CP', 'r 41 '}
+{'151 C', ' 17 C', 'Order 6 Rule 17 CPC'}
+{'151 C', ' 17 C'}
+{'n 107', '. 107'}
+{'n 151'}
+{' 13 C', 'Order 9 Rule 13 CPC'}
+{'n 100'}
+{'n 100'}
+{'n 151', '151 C', ' 15', '. 2 a'}
+{'Order 32A of the Co', '.\n190', 'r 32A', '908, '}
+{', 190', '908.\n', '.\n5', '908 ('}
+{'100 o'}
+{'.\n135', 'Order 19 of the Cod', ' 37, '}
+{'Order X\nCPC would n', '151 C', ' 10 C', 'Order 10 CPC. On\nno'}
+{'.\n17.'}
+{'n 115'}
+{'n 109', ' 1908', '.109 '}
+{'n 151', 'r 6 R', 'Order 6 Rule 17,\nCi'}
+{'n 151', 'Order 6, Rule 17,\nC'}
+{'2(15)'}
+{'Order 26 of the Cod', 'n 100'}
+{'r 18 ', '\n41 R', 's 22 '}
+{'r 6 R'}
+{'. 109', ' 15th'}
