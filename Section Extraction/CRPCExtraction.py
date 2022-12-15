@@ -1,6 +1,6 @@
 import PyPDF2
 import os
-for foldername,subfolders,files in os.walk(r"Spashtikaran\Dataset"):
+for foldername,subfolders,files in os.walk(r"Dataset"):
     for file in files:
         # open the pdf file
         fileReader = PyPDF2.PdfFileReader(os.path.join(foldername,file))
@@ -8,7 +8,7 @@ for foldername,subfolders,files in os.walk(r"Spashtikaran\Dataset"):
         sectionarray = []
         actArray=[]
         countOfAct=0
-        actsToSearch = ['Indian Penal Code','IPC']
+        actsToSearch = ['Code of Criminal Procedure','PC']
         def runThroughAllPages(num):
             # looping through all pages 
             for i in range(0,num-1):
@@ -22,7 +22,7 @@ for foldername,subfolders,files in os.walk(r"Spashtikaran\Dataset"):
                 if phrase in pageText:
                     for j in range(0,pageText.count(phrase)):
                         findIndex = pageText.find(phrase)
-                        actArray.append(pageText[findIndex-16:findIndex+32])
+                        actArray.append(pageText[findIndex-18:findIndex+80])
                         pageText.replace(phrase,'#',1)
             
 
@@ -37,9 +37,9 @@ for foldername,subfolders,files in os.walk(r"Spashtikaran\Dataset"):
         def outputOfSections(sectionArray):
             finalSectionSet = set(sectionarray)
             print(finalSectionSet)
-            file = open('Spashtikaran\pre-processed results\IPCoutput.txt','a',encoding="utf-8")
+            file = open('pre-processed results\CRPCoutput.txt','a',encoding="utf-8")
             if len(finalSectionSet)!=0:
-                file.write(str(finalSectionSet)+'\n')
+                 file.write(str(finalSectionSet)+'\n')
 
 
         runThroughAllPages(numberOfPages)
